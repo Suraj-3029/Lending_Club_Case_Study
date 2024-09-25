@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> annalysis on loan defaulters
 
 
 ## Table of Contents
@@ -12,25 +12,23 @@
 
 ## General Information
 - Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- What is the background of your project? parameters which impact loan default
+- What is the business probem that your project is trying to solve? to find solution for defaulters
+- What is the dataset that is being used? loan.csv
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+As per the above correlation we see that customer who has derogatory public records or public record bankruptcies has a very less chance of repaying the loan amount. Leading them to be a defaulter, So avoiding giving loan to these applicants would decrease the risk of defaulters.
+
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+python
+numpy
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -42,7 +40,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Suraj-3029] - feel free to contact me!
 
 
 <!-- Optional -->
